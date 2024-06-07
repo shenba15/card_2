@@ -1,0 +1,33 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.col{
+	width:28%;
+	height:450px;
+	margin:auto;
+	border:2px solid black;
+	background-color:rgb(247, 248, 250);
+	margin-top:70px;
+
+}
+img{
+	border:5px solid white;
+	width:100%;
+	height:100%;
+	border-radius:50%;
+	box-shadow:-3px 3px 5px silver;
+}
+.op{
+	width:50%;
+	margin-top:50px;
+	margin-left:100px;
+}
+h2,p{
+	text-align:center;
+	padding-top:20px;
+}
+i{
+color:rgb(182, 185, 194);
+}
